@@ -1,0 +1,8 @@
+telegram
+python-dateutil
+arrow
+pytz
+python-telegram-bot
+requests
+PySocks
+flask
